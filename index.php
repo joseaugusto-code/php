@@ -1,3 +1,4 @@
 <?php
-	echo "Hello World!";
+	echo "Olá mundo!";
+	echo "José Augusto";
 ?>
